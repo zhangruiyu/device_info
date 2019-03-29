@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/zhangruiyu/tools/flutter
+FLUTTER_APPLICATION_PATH=/Users/zhangruiyu/FlutterProjects/device_info-0.4.0+1/example
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/zhangruiyu/tools/flutter/bin/cache/artifacts/engine/ios
